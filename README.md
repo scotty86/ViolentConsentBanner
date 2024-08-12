@@ -1,5 +1,7 @@
 # ViolentConsentBanner
 
+[Deutsche Readme / German readme](https://github.com/scotty86/ViolentConsentBanner/blob/main/README.de.md)
+
 **Description**
 
 The **ViolentConsentBanner** project is a collection of scripts designed to block intrusive consent banners on websites, allowing access to content without requiring user consent. The scripts are intended for developers and researchers who want to analyze and understand the mechanisms of such banners.
