@@ -16,7 +16,7 @@ Diese Skripte sind nicht zur dauerhaften oder regelmäßigen Nutzung gedacht und
 
 ### Voraussetzungen
 
-- **Browser**: Ein moderner Webbrowser wie Firefox, Chrome oder Edge.
+- **Browser**: Ein moderner Webbrowser wie Firefox, Chrome, Edge oder Fennec (Smartphone).
 - **Erweiterung**: Installiere die [Violentmonkey](https://violentmonkey.github.io/) Erweiterung.
 
 ### Schritt-für-Schritt-Anleitung
