@@ -1,17 +1,20 @@
 // ==UserScript==
-// @name         heise.de - Remove Consent Elements
+// @name         Pur-Abo hide
 // @namespace    Violentmonkey Scripts
 // @version      2024-08-12
 // @description  Remove 'sp-message-open' class and elements with IDs starting with 'sp_message_container'
-// @author       Me
-// @match        https://www.heise.de/*
-// @icon         https://files.mastodon.social/cache/accounts/avatars/109/721/390/932/598/723/original/ae9948022c5b0223.png
+// @author       scotty86
+// @match        https://*.heise.de/*
+// @match        https://*.handelsblatt.com/*
+// @match        https://*.t-online.de/*
+// @match        https://*.zeit.de/*
+// @match        https://*.fr.de/*
 // @grant        none
 // ==/UserScript==
 
 (function() {
     'use strict';
-
+    console.log(window.document.body.innerHTML);
     // Function to remove the consent elements
     function remove_consent_elements() {
         // Remove the 'sp-message-open' class from elements
