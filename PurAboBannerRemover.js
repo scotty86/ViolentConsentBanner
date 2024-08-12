@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Pur-Abo hide
+// @name         PUR-Abo Banner Remover
 // @namespace    Violentmonkey Scripts
 // @version      2024-08-12
 // @description  Remove 'sp-message-open' class and elements with IDs starting with 'sp_message_container'
@@ -14,7 +14,6 @@
 
 (function() {
     'use strict';
-    console.log(window.document.body.innerHTML);
     // Function to remove the consent elements
     function remove_consent_elements() {
         // Remove the 'sp-message-open' class from elements
