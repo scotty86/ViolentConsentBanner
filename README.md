@@ -18,7 +18,7 @@ These scripts are not intended for permanent or regular use and should only be u
 
 ### Requirements
 
-- **Browser**: A modern web browser like Firefox, Chrome, or Edge.
+- **Browser**: A modern web browser like Firefox, Chrome, Edge or Fennec (mobile).
 - **Extension**: Install the [Violentmonkey](https://violentmonkey.github.io/) extension.
 
 ### Step-by-Step Guide
