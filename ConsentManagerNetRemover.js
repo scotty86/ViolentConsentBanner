@@ -3,7 +3,7 @@
 // @namespace    Violentmonkey Scripts
 // @version      2024-08-13-12-44
 // @description  Remove consentmanager.net
-// @author       me
+// @author       scotty86
 // @match        http*://*/*
 // @grant        none
 // ==/UserScript==
