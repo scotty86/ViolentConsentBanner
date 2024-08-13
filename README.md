@@ -48,9 +48,13 @@ These scripts are not intended for permanent or regular use and should only be u
 ## Available Scripts
 
 - **PUR Subscription Banner Remover**: Removes subscription banners that block access to content without a PUR subscription.  
-  URL: `https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/PurAboBannerRemover.js`
-  
-  Additional scripts will be available in the future to remove other types of banners on various websites.
+  ```
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/PurAboBannerRemover.js
+  ```
+- **ConsentManager.net Remover:** Removes consent banners powered by ConsentManager.net that block access to website content.
+  ```
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/ConsentManagerNetRemover.js
+  ```
 
 ## Support
 
