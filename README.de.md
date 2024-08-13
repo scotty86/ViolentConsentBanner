@@ -46,9 +46,13 @@ Diese Skripte sind nicht zur dauerhaften oder regelmäßigen Nutzung gedacht und
 ## Verfügbare Skripte
 
 - **PUR Abo Banner Remover**: Entfernt die Zwangsbanner, die den Zugang zu Inhalten ohne PUR-Abonnement blockieren und IP-Tracking erzwingen.  
-  URL: `https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/PurAboBannerRemover.js`
-  
-  Weitere Skripte werden in Zukunft verfügbar sein, um andere Arten von Bannern auf verschiedenen Websites zu entfernen.
+  ```
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/PurAboBannerRemover.js
+  ```
+- **ConsentManager.net Remover:** Entfernt Zwangsbanner, die von ConsentManager.net betrieben werden und den Zugriff auf Inhalte blockieren.  
+  ```
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/ConsentManagerNetRemover.js
+  ```
 
 ## Unterstützung
 
