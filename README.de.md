@@ -32,7 +32,7 @@ Diese Skripte sind nicht zur dauerhaften oder regelmäßigen Nutzung gedacht und
 3. **URL des Skripts eingeben**:
    - Füge die URL des gewünschten Skripts in das Eingabefeld ein. Beispiel: Für das PUR-Abo-Banner-Entfernungsskript verwende die folgende URL:
      ```
-     https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/PurAboBannerRemover.js
+     https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PurAboBannerRemover.js
      ```
    - Bestätige die Eingabe, indem du auf "OK" klickst.
    
@@ -47,11 +47,11 @@ Diese Skripte sind nicht zur dauerhaften oder regelmäßigen Nutzung gedacht und
 
 - **PUR Abo Banner Remover**: Entfernt die Zwangsbanner, die den Zugang zu Inhalten ohne PUR-Abonnement blockieren und IP-Tracking erzwingen.  
   ```
-  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/PurAboBannerRemover.js
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PurAboBannerRemover.js
   ```
 - **ConsentManager.net Remover:** Entfernt Zwangsbanner, die von ConsentManager.net betrieben werden und den Zugriff auf Inhalte blockieren.  
   ```
-  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/ConsentManagerNetRemover.js
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/ConsentManagerNetRemover.js
   ```
 
 ## Unterstützung
