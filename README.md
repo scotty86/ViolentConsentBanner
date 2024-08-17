@@ -34,7 +34,7 @@ These scripts are not intended for permanent or regular use and should only be u
 3. **Enter the Script URL**:
    - Paste the URL of the script you want to use into the input field. For example, to use the PUR subscription banner remover script, enter the following URL:
      ```
-     https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/PurAboBannerRemover.js
+     https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PurAboBannerRemover.js
      ```
    - Confirm by clicking "OK".
    
@@ -49,11 +49,11 @@ These scripts are not intended for permanent or regular use and should only be u
 
 - **PUR Subscription Banner Remover**: Removes subscription banners that block access to content without a PUR subscription.  
   ```
-  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/PurAboBannerRemover.js
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PurAboBannerRemover.js
   ```
 - **ConsentManager.net Remover:** Removes consent banners powered by ConsentManager.net that block access to website content.
   ```
-  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/ConsentManagerNetRemover.js
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/ConsentManagerNetRemover.js
   ```
 
 ## Support
