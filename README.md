@@ -32,9 +32,9 @@ These scripts are not intended for permanent or regular use and should only be u
    - Click on "Import from URL".
 
 3. **Enter the Script URL**:
-   - Paste the URL of the script you want to use into the input field. For example, to use the PUR subscription banner remover script, enter the following URL:
+   - Paste the URL of the script you want to use into the input field. For example, to use the ViolentConsentBanner script, enter the following URL:
      ```
-     https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PurAboBannerRemover.js
+     https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/ViolentConsentBanner.js
      ```
    - Confirm by clicking "OK".
    
@@ -47,6 +47,10 @@ These scripts are not intended for permanent or regular use and should only be u
 
 ## Available Scripts
 
+- **ViolentConsentBanner Script:** Combines all stable submodules into a single script, allowing users to avoid importing each script individually.
+  ```
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/ViolentConsentBanner.js
+  ```
 - **PUR Subscription Banner Remover**: Removes subscription banners that block access to content without a PUR subscription.  
   ```
   https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PurAboBannerRemover.js

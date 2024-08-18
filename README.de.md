@@ -30,9 +30,9 @@ Diese Skripte sind nicht zur dauerhaften oder regelmäßigen Nutzung gedacht und
    - Klicke auf "Import from URL" (bzw. "Von URL importieren").
 
 3. **URL des Skripts eingeben**:
-   - Füge die URL des gewünschten Skripts in das Eingabefeld ein. Beispiel: Für das PUR-Abo-Banner-Entfernungsskript verwende die folgende URL:
+   - Füge die URL des gewünschten Skripts in das Eingabefeld ein. Beispiel: Für das ViolentConsentBanner-Skript verwende die folgende URL:
      ```
-     https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PurAboBannerRemover.js
+     https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/ViolentConsentBanner.js
      ```
    - Bestätige die Eingabe, indem du auf "OK" klickst.
    
@@ -45,6 +45,10 @@ Diese Skripte sind nicht zur dauerhaften oder regelmäßigen Nutzung gedacht und
 
 ## Verfügbare Skripte
 
+- **ViolentConsentBanner-Skript:** Vereint alle stabilen Submodule in einem einzigen Skript, sodass Benutzer nicht jedes Skript einzeln importieren müssen.
+  ```
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/ViolentConsentBanner.js
+  ```
 - **PUR Abo Banner Remover**: Entfernt die Zwangsbanner, die den Zugang zu Inhalten ohne PUR-Abonnement blockieren und IP-Tracking erzwingen.  
   ```
   https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PurAboBannerRemover.js
