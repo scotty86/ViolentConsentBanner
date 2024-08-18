@@ -3,7 +3,7 @@
 // @name         Jimdo Banner Remover
 // @namespace    Violentmonkey Scripts
 // @version      2024-08-13-16-03
-// @description  Remove elements with class 'cc-individual-cookie-settings' or 'cc-individual-cookie-settings-overlay'
+// @description  ALPHA DO NOT USE - Remove elements with class 'cc-individual-cookie-settings' or 'cc-individual-cookie-settings-overlay'
 // @author       scotty86
 // @match        http*://*/*
 // @grant        none
