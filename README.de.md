@@ -17,6 +17,14 @@ Diese Skripte sind nicht zur dauerhaften oder regelmäßigen Nutzung gedacht und
 ### Voraussetzungen
 
 - **Browser**: Ein moderner Webbrowser wie Firefox, Chrome, Edge oder Fennec (Smartphone).
+  - **Bestätigte Browser**:
+    - **Android**:
+      - [Firefox](https://www.mozilla.org/de/firefox/)
+      - [Fennec](https://f-droid.org/de/packages/org.mozilla.fennec_fdroid/)
+    - **Desktop**:
+      - [Vivaldi](https://vivaldi.com/)
+      - [Firefox](https://www.mozilla.org/de/firefox/)
+      - [LibreWolf](https://librewolf.net)
 - **Erweiterung**: Installiere die [Violentmonkey](https://violentmonkey.github.io/) Erweiterung.
 
 ### Schritt-für-Schritt-Anleitung

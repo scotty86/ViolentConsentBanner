@@ -19,6 +19,14 @@ These scripts are not intended for permanent or regular use and should only be u
 ### Requirements
 
 - **Browser**: A modern web browser like Firefox, Chrome, Edge or Fennec (mobile).
+  - **Confirmed Browsers**:
+    - **Android**:
+      - [Firefox](https://www.mozilla.org/de/firefox/)
+      - [Fennec](https://f-droid.org/de/packages/org.mozilla.fennec_fdroid/)
+    - **Desktop**:
+      - [Vivaldi](https://vivaldi.com/)
+      - [Firefox](https://www.mozilla.org/de/firefox/)
+      - [LibreWolf](https://librewolf.net)
 - **Extension**: Install the [Violentmonkey](https://violentmonkey.github.io/) extension.
 
 ### Step-by-Step Guide
