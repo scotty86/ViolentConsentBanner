@@ -65,6 +65,10 @@ Diese Skripte sind nicht zur dauerhaften oder regelmäßigen Nutzung gedacht und
   ```
   https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/ConsentManagerNetRemover.js
   ```
+- **PONS Banner Remover:** Entfernt Zwangsbanner von pons.com, die den Zugriff auf Inhalte blockieren.
+  ```
+  https://raw.githubusercontent.com/scotty86/ViolentConsentBanner/main/submodules/PonsBannerRemover.js
+  ```
 
 ## Unterstützung
 
