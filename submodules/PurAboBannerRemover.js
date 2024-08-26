@@ -4,13 +4,7 @@
 // @version      2024-08-13-00-58
 // @description  Remove 'sp-message-open' class and elements with IDs starting with 'sp_message_container'
 // @author       scotty86
-// @match        https://*.heise.de/*
-// @match        https://*.handelsblatt.com/*
-// @match        https://*.t-online.de/*
-// @match        https://*.zeit.de/*
-// @match        https://*.fr.de/*
-// @match        https://*.faz.net/*
-// @match        https://*.spiegel.de/*
+// @match        http*://*/*
 // @grant        none
 // ==/UserScript==
 
